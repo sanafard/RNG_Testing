@@ -4,5 +4,5 @@ We enhance trust and fairness through a zero-knowledge quantum mimicking process
 
 ## RNG Testing
 
-As part of this project, I am responsible for the Random Number Generation (RNG) testing. This involves ensuring the integrity and reliability of the random generation process to maintain the project's commitment to fairness and trust.
+As part of this project, I am responsible for the Random Number Generation (RNG) testing (100 million data points) This involves ensuring the integrity and reliability of the random generation process to maintain the project's commitment to fairness and trust.
 
